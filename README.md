@@ -12,7 +12,7 @@ To select a region of the screen press the mouse left button while moving. The m
 red dashed square or transparent window.
 
 The red dashed square or transparent windows can be resized by placing the mouse over the edge, then pressing
-the left button while moving in or out. It can also be resized doing the same procedure over the corner.
+the left button while moving in or out. It can also be resized by doing the same procedure over the corner.
 
 # Application Video Demo
 
